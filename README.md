@@ -4,13 +4,15 @@ GUI Installer untuk CodeIgniter
 
 ## Contoh penempatan folder
 
-- codeigniter
-  - application
-  - system
-  - install
-    - class
-    - config
-    - index.php
+```
++-- application
++-- system
++-- install
+|   +-- class
+|   +-- config
+|   +-- index.php
++-- index.php
+```
 
 ## Cara menggunakan
 
